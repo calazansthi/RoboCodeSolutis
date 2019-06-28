@@ -1,0 +1,12 @@
+C:\Users\thica\source\repos\MyProject\MyProject\bin\Debug\netstandard2.0\robocode.dll
+C:\Users\thica\source\repos\MyProject\MyProject\bin\Debug\netstandard2.0\robocode.xml
+C:\Users\thica\source\repos\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.csprojAssemblyReference.cache
+C:\Users\thica\source\repos\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\thica\source\repos\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\thica\source\repos\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.AssemblyInfo.cs
+C:\Users\thica\source\repos\MyProject\MyProject\obj\Debug\netstandard2.0\MyProject.csproj.CopyComplete
+C:\Users\thica\source\repos\MyProject\MyProject\bin\Debug\netstandard2.0\Calazans.Megatron.deps.json
+C:\Users\thica\source\repos\MyProject\MyProject\bin\Debug\netstandard2.0\Calazans.Megatron.dll
+C:\Users\thica\source\repos\MyProject\MyProject\bin\Debug\netstandard2.0\Calazans.Megatron.pdb
+C:\Users\thica\source\repos\MyProject\MyProject\obj\Debug\netstandard2.0\Calazans.Megatron.dll
+C:\Users\thica\source\repos\MyProject\MyProject\obj\Debug\netstandard2.0\Calazans.Megatron.pdb
